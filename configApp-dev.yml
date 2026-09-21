@@ -1,1 +1,7 @@
 
+build:
+  id: 100001
+  version: 001.2.3
+  name: "dev build git"
+  sandyName: "sandy dev git"
+  myPassword: "git Pass dev"
